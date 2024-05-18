@@ -1,5 +1,17 @@
 # The Complete 2024 Web Development Bootcamp
 
+## Introduction
+Welcome to my project!
+
+The purpose of this project is to share my notes, annotations, tips, and, most importantly, my progress in this course. I purchased this course a couple of years ago but never finished it. Now, I want to revisit it with a professional approach as a Full Stack Developer, reviewing everything from the basics to acquiring new knowledge.
+
+The goal is to upload content daily along with my progress.
+
+I hope this documentation will be helpful not only for myself but also for others who are on a similar learning journey. Let's embark on this journey together!
+
+Happy coding!
+
+
 ## Table of Contents
 1. [Front-End Web Development](#frontend)
 2. [Introduction to HTML](#introduction-html)
